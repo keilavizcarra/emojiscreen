@@ -2288,6 +2288,14 @@ const emojiItems = [
     year: 2005
   },
   {
+    title: "Stranger Things",
+    emojiImgs:"👦🏼🥞👽📷🐉",
+    genres: ["Drama", "Fantasy", "Horror"],
+    itemLink: ["https://www.imdb.com/title/tt4574334/"],
+    type: "tv",
+    year: 2016
+  },
+  {
     title: "Steven Universe",
     emojiImgs: "👦🏻💎💎💎🛡️",
     genres: ["comedy"],
