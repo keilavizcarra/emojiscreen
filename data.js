@@ -2264,6 +2264,30 @@ const emojiItems = [
     year: 1966
   },
   {
+    title: "Star Wars I",
+    emojiImgs: "🏎👦🏼🧔🏽🧔🏽👹",
+    genres: ["Action", "Adventure", "Fantasy"],
+    itemLink: ["https://www.imdb.com/title/tt0120915/"],
+    type: "movie",
+    year: 1999
+  },
+  {
+    title: "Star Wars II",
+    emojiImgs: "🧑🏽🤖👸🏼❤️",
+    genres: ["Action", "Adventure", "Fantasy"],
+    itemLink: ["https://www.imdb.com/title/tt0121765/?ref_=tt_sims_tt"],
+    type: "movie",
+    year: 2002
+  },
+  {
+    title: "Star Wars III",
+    emojiImgs: "😡👨‍👩‍👧‍👦🔥⚔️",
+    genres: ["Action", "Adventure", "Fantasy"],
+    itemLink:["https://www.imdb.com/title/tt0121766/?ref_=tt_sims_tt"],
+    type: "movie",
+    year: 2005
+  },
+  {
     title: "Steven Universe",
     emojiImgs: "👦🏻💎💎💎🛡️",
     genres: ["comedy"],
